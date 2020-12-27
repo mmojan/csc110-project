@@ -1,0 +1,19 @@
+# CSC110 Fall 2020: Python libraries we'll be using in our project.
+
+# Testing and code checking
+python-ta
+
+# Data manipulation 
+pandas==1.1.5
+
+# Operations over arrays
+numpy==1.19.4
+
+# Linear regression model
+sklearn==0.0
+
+# Plotting the linear regression:
+matplotlib==3.3.3
+
+# generating a pdf:
+reportlab==3.5.56
